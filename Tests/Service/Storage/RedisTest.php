@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\Tests\Service\Storage;
+namespace Noxlogic\RateLimitBundle\Tests\Service\Storage;
 
 use Noxlogic\RateLimitBundle\Service\Storage\Redis;
 use Noxlogic\RateLimitBundle\Tests\TestCase;

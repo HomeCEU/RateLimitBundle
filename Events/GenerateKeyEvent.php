@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\Events;
+namespace Noxlogic\RateLimitBundle\Events;
 
 use Symfony\Component\EventDispatcher\Event;
 use Symfony\Component\HttpFoundation\Request;

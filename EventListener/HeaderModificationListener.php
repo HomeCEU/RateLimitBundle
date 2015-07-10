@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\EventListener;
+namespace Noxlogic\RateLimitBundle\EventListener;
 
 use Noxlogic\RateLimitBundle\Service\RateLimitInfo;
 use Symfony\Component\HttpKernel\Event\FilterResponseEvent;

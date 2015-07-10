@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\EventListener;
+namespace Noxlogic\RateLimitBundle\EventListener;
 
 abstract class BaseListener
 {

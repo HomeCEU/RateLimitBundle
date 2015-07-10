@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\Service;
+namespace Noxlogic\RateLimitBundle\Service;
 
 use Noxlogic\RateLimitBundle\Service\Storage\StorageInterface;
 

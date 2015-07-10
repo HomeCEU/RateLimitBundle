@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle;
+namespace Noxlogic\RateLimitBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

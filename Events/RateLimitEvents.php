@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\Events;
+namespace Noxlogic\RateLimitBundle\Events;
 
 final class RateLimitEvents
 {

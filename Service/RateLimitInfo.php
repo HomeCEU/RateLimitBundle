@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\Service;
+namespace Noxlogic\RateLimitBundle\Service;
 
 class RateLimitInfo
 {

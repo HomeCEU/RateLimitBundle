@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\EventListener;
+namespace Noxlogic\RateLimitBundle\EventListener;
 
 use Noxlogic\RateLimitBundle\Annotation\RateLimit;
 use Noxlogic\RateLimitBundle\Events\GenerateKeyEvent;

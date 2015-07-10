@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\Tests\DependencyInjection;
+namespace Noxlogic\RateLimitBundle\Tests\DependencyInjection;
 
 use Noxlogic\RateLimitBundle\DependencyInjection\Configuration;
 use Symfony\Bundle\FrameworkBundle\Tests\Functional\WebTestCase;

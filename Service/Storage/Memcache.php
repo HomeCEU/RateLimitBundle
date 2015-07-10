@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\Service\Storage;
+namespace Noxlogic\RateLimitBundle\Service\Storage;
 
 use Noxlogic\RateLimitBundle\Service\RateLimitInfo;
 

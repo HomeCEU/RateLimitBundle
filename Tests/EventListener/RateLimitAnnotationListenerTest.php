@@ -1,6 +1,6 @@
 <?php
 
-namespace hceudevs\RateLimitBundle\EventListener\Tests;
+namespace Noxlogic\RateLimitBundle\EventListener\Tests;
 
 use Noxlogic\RateLimitBundle\Annotation\RateLimit;
 use Noxlogic\RateLimitBundle\EventListener\RateLimitAnnotationListener;
