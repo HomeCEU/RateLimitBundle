@@ -12,7 +12,7 @@ class Redis implements StorageInterface
      */
     protected $client;
 
-    public function __construct(Client $client)
+    public function __construct($client)
     {
         $this->client = $client;
     }
