@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\EventListener;
+namespace hceudevs\RateLimitBundle\EventListener;
 
 use Noxlogic\RateLimitBundle\Events\GenerateKeyEvent;
 use Symfony\Component\Security\Core\SecurityContextInterface;

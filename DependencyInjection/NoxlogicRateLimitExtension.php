@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\DependencyInjection;
+namespace hceudevs\RateLimitBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

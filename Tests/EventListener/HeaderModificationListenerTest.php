@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\Tests\Annotation;
+namespace hceudevs\RateLimitBundle\Tests\Annotation;
 
 use Noxlogic\RateLimitBundle\EventListener\HeaderModificationListener;
 use Noxlogic\RateLimitBundle\EventListener\OauthKeyGenerateListener;

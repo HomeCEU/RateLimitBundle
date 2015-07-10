@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\Tests\EventListener;
+namespace hceudevs\RateLimitBundle\Tests\EventListener;
 
 use Noxlogic\RateLimitBundle\Service\RateLimitInfo;
 use Noxlogic\RateLimitBundle\Service\Storage\StorageInterface;

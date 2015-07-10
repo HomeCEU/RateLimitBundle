@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\Tests\Service\Storage;
+namespace hceudevs\RateLimitBundle\Tests\Service\Storage;
 
 
 use Noxlogic\RateLimitBundle\Service\Storage\DoctrineCache;

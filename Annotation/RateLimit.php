@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\Annotation;
+namespace hceudevs\RateLimitBundle\Annotation;
 
 use Doctrine\Common\Annotations\Annotation;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\ConfigurationAnnotation;

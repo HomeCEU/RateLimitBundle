@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\Service\Storage;
+namespace hceudevs\RateLimitBundle\Service\Storage;
 
 use Doctrine\Common\Cache\Cache;
 use Noxlogic\RateLimitBundle\Service\RateLimitInfo;

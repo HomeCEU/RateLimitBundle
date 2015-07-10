@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Noxlogic\RateLimitBundle\Tests\Util;
+namespace hceudevs\RateLimitBundle\Tests\Util;
 
 
 use Noxlogic\RateLimitBundle\Tests\TestCase;

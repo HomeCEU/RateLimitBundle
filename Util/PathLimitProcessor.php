@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Noxlogic\RateLimitBundle\Util;
+namespace hceudevs\RateLimitBundle\Util;
 
 use Noxlogic\RateLimitBundle\Annotation\RateLimit;
 use Symfony\Component\HttpFoundation\Request;

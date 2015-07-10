@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\Service\Storage;
+namespace hceudevs\RateLimitBundle\Service\Storage;
 
 use Noxlogic\RateLimitBundle\Service\RateLimitInfo;
 use Predis\Client;

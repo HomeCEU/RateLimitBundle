@@ -1,6 +1,6 @@
 <?php
 
-namespace Noxlogic\RateLimitBundle\Tests;
+namespace hceudevs\RateLimitBundle\Tests;
 
 use Noxlogic\RateLimitBundle\NoxlogicRateLimitBundle;
 
